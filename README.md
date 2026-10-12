@@ -4,9 +4,9 @@ Computer science and applied mathematics student building machine-learning syste
 
 ## What I am working on
 
-- **ML Foundations** — readable NumPy implementations of kNN, linear regression, logistic regression, and multiclass perceptrons, backed by tests and continuous integration
-- **House Edge** — a server-authoritative multiplayer poker roguelike built with Godot, typed GDScript, and WebSockets
-- **Exaltry** — hosting infrastructure and guarded automation for billing, provisioning, deployment, backups, and operational checks
+- **[ML Foundations](https://github.com/ThatLoganJohnston/ml-foundations)** — readable NumPy implementations of kNN, linear regression, logistic regression, and multiclass perceptrons, backed by tests and continuous integration
+- **[House Edge](https://github.com/ThatLoganJohnston/house-edge-showcase)** — a server-authoritative multiplayer poker roguelike built with Godot, typed GDScript, and WebSockets
+- **[Exaltry](https://github.com/ThatLoganJohnston/exaltry-engineering-case-study)** — hosting infrastructure and guarded automation for billing, provisioning, deployment, backups, and operational checks
 
 ## Technical focus
 
